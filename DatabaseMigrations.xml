@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<migrations>
+    <migration>
+        <source connectionString="">
+            <commandText></commandText>
+        </source>
+        <target connectionString="">
+            <table name="">
+                <column dataType=""></column>
+            </table>
+        </target>
+    </migration>
+</migrations>
